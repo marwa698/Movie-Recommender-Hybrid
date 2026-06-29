@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+models/svd_model.pkl
+models/content_embeddings.pkl
+data/movielens/ratings.csv
+ml-1m/
+ml-1m.zip
+*.pkl
